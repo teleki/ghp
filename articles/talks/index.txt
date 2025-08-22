@@ -1,0 +1,178 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/ae2273c76f546f10.js"],"Header"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"default"]
+5:I[29306,["/_next/static/chunks/ae2273c76f546f10.js","/_next/static/chunks/4703bc040350e6fb.js"],"default"]
+6:I[22016,["/_next/static/chunks/ae2273c76f546f10.js"],"default"]
+7:I[79520,["/_next/static/chunks/ae2273c76f546f10.js"],""]
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"OutletBoundary"]
+b:I[11533,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"AsyncMetadataOutlet"]
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"ViewportBoundary"]
+f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[68027,["/_next/static/chunks/ae2273c76f546f10.js"],"default"]
+:HL["/_next/static/chunks/cc0df02d4327479b.css","style"]
+:HL["/_next/static/chunks/eb89a7503d7ea580.css","style"]
+:HL["/_next/static/media/asap_condensed_v17_latin_500-s.p.201eb6cb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ibm_plex_serif_v19_latin_500-s.p.0a408628.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/roboto_condensed_v27_latin_500-s.p.fa484095.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/satisfy_v21_latin_regular-s.p.947b27dc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"_8eaeoBrSb0hLrL10hi58","p":"","c":["","articles","talks",""],"i":false,"f":[[["",{"children":["articles",{"children":[["slug","talks","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cc0df02d4327479b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/eb89a7503d7ea580.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/ae2273c76f546f10.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"data-scroll-behavior":"smooth","lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"color-scheme","content":"light dark"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var theme = localStorage.getItem(\"theme\");\n                  var dark = theme === \"dark\" || (theme === \"system\" && window.matchMedia(\"(prefers-color-scheme: dark)\").matches);\n                  if (dark) {\n                    document.documentElement.classList.add(\"dark\");\n                    document.documentElement.setAttribute(\"data-theme\", \"dark\");\n                    document.documentElement.style.colorScheme = \"dark\";\n                  } else {\n                    document.documentElement.classList.remove(\"dark\");\n                    document.documentElement.setAttribute(\"data-theme\", \"light\");\n                    document.documentElement.style.colorScheme = \"light\";\n                  }\n                } catch(e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"brand-bg brand-text sticky bottom-0 flex p-1","children":["$","div",null,{"className":"brand-page-max-width m-auto flex w-full flex-row justify-between px-4","children":[["$","div",null,{"className":"robotocond500_1477471c-module__3nXAyW__className","children":["© ",2025," Steve Teleki. All rights reserved."]}],["$","div",null,{"className":"privacy-footer","children":["$","$L6",null,{"href":"/articles/privacy-policy","children":["$","span",null,{"className":"robotocond500_1477471c-module__3nXAyW__className","children":"Privacy Policy"}]}]}]]}]}],["$","dialog",null,{"id":"search_modal","className":"modal","children":[["$","div",null,{"className":"modal-box w-11/12 max-w-5xl","children":[["$","h3",null,{"className":"pb-6 text-lg font-bold","children":"🧭 Steve on Software Site Search"}],["$","div",null,{"id":"search","className":""}],["$","form",null,{"method":"dialog","children":["$","button",null,{"className":"btn btn-circle btn-ghost btn-sm absolute top-2 right-2","children":"✖️"}]}]]}],["$","form",null,{"method":"dialog","className":"modal-backdrop","children":["$","button",null,{"children":"close"}]}]]}]]}],["$","$L7",null,{"src":"/js/nav.js"}],["$","$L7",null,{"src":"/js/katex.min.js"}],["$","$L7",null,{"src":"/pagefind/pagefind-ui.js"}],["$","$L7",null,{"src":"/js/pagefind-extra.js"}]]}]]}],{"children":["articles",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","talks","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cc0df02d4327479b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/eb89a7503d7ea580.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+13:T36ad,
+<h2>Scheduled Talks</h2>
+<p>If you would like to have a talk at your organization's meeting or at your company, please send an email to <a href="mailto:steve@teleki.net">steve@teleki.net</a>, or call +1 (512) 775-7864.</p>
+<h2>Past Talks</h2>
+<h3>2014</h3>
+<p>21 Feb 2014, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2014-02-21-coupling-cohesion.pdf">Coupling &#x26; Cohesion: Pillars of Software Development</a></em> presentation at CA Technologies as part of the Agile Austin Leaders SIG <em>"On The Road"</em> series in Austin, Texas.
+</p>
+<h3>2012</h3>
+<p>25 Oct 2012, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2012-10-25-building-blocks.pdf">Building Blocks of Software Project Success</a></em> presentation at the <a href="/assets/articles/talks/2012-10-25-chennai-talk-announcement.pdf" title="Computer Society of India, Chennai Chapter">Computer Society of India, Chennai Chapter</a>.
+</p>
+<p>7 Feb 2012, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2012-02-07-coupling-cohesion.pdf">Coupling &#x26; Cohesion: Pillars of Software Development</a></em> presentation at <a href="http://www.agileaustin.org/">Agile Austin</a> in Austin, Texas.
+</p>
+<h3>2011</h3>
+<p>23 Sep 2011, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2011.09.23.quality.gurus.pdf">Quality from the Quality Gurus</a></em> presentation at Multimedia Games in Austin, Texas.
+</p>
+<p>11 Aug 2011, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2011.08.11.planning.101.pdf">Getting Started with Personal Project Planning</a></em> presentation at the Austin Software Process Improvement Network joint meeting with the IEEE Computer Society, Austin Chapter in Austin, Texas.
+</p>
+<p>4 Jun 2011, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2011.06.04.building.blocks.pdf">Building Blocks of Successful Software Projects</a></em> presentation at the Computer Society of India, Bangalore Chapter in Bangalore, India.
+</p>
+<p>15 Feb 2011, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2011.02.15.what.managers.do.pdf">On Being a Software Development Manager</a></em> guest lecture at MCIS 6307 Strategic and IT Management @ St. Edward's University in Austin, Texas.
+</p>
+<h3>2009</h3>
+<p>19 Nov 2009, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2009.11.19.building.blocks.pdf">Building Blocks of Software Project Success</a></em> presentation at the Austin Software Process Improvement Network.
+</p>
+<h3>2008</h3>
+<p>28 Feb 2008, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2008.02.28.sd.challenges.pdf">Software Development Challenges for the 21st Century</a></em> invited presentation at <em>Partners in Business</em> conference in Logan, Utah.
+</p>
+<h3>2007</h3>
+<p>14 Nov 2007, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2007.11.14.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture at The University of Texas at Austin.
+</p>
+<p>11 Oct 2007, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2007.10.11.integrating.wikis.podcasts.pdf">Integrating Project Work Using Collaborative Environments, Instant Messaging, Wikis, Podcasts</a></em> presentation at the Austin Software Process Improvement Network, Austin, Texas.
+</p>
+<p>30 July 2007, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2007.07.30.teleki.drucker.panel.pdf">The Drucker Leadership Panel @ IEMC 2007</a></em> panel discussion at the 2007 International Engineering Management Conference @ Hyatt Lost Pines near Austin, Texas. Download the daily video podcasts: <a href="https://teleki.net/download/vodcasts/iemc07-day1.mov">Day 1</a>, <a href="https://teleki.net/download/vodcasts/iemc07-day2.mov">Day 2</a>, <a href="https://teleki.net/download/vodcasts/iemc07-day3.mov">Day 3</a>.
+</p>
+<p>3 May 2007, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2007.05.03.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture at Southwestern University, Georgetown, Texas.
+</p>
+<p>15 Feb 2007, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2007.02.15.se.function.of.time.pdf">Software Engineering--A Function of Time</a></em> presentation at the IEEE Computer Society, San Antonio Chapter, San Antonio, Texas.
+</p>
+<p>9 Feb 2007, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2007.02.09.sd.challenges.pdf">Software Development Challenges for the 21st Century</a></em> presentation at the 40th Annual Engineering Seminar Series at St. Mary's University in San Antonio, Texas.
+</p>
+<h3>2006</h3>
+<p>6 Dec 2006, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2006.12.06.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture for CS 373 at the University of Texas at Austin.
+</p>
+<p>10-11 Aug 2006, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2006.08.10-11.ieee.ut.emc.slides.pdf">Living Locally, Working Globally</a></em>
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <a href="/assets/articles/talks/2006.08.10-11.ieee.ut.emc.paper.pdf">paper</a> presented at the IEEE - University of Texas at Austin Engineering Management Conference in Austin, Texas.
+</p>
+<p>3 May 2006, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2006.05.03.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture for CS 373 at the University of Texas at Austin.
+</p>
+<p>19 Jan 2006, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2006.01.19.sd.challenges.pdf">Software Development Challenges for the 21st Century</a></em> presentation at the IEEE Computer Society, San Antonio Chapter, San Antonio, Texas.
+</p>
+<h3>2005</h3>
+<p>7 Dec 2005, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2005.12.07.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture for CS 373 at the University of Texas at Austin.
+</p>
+<p>28-29 July 2005, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2005.07.28-29.alt.intro.slides.pdf">Suggestions for an Alternate Introduction Method to the SEI PSP</a></em>
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <a href="/assets/articles/talks/2005.07.28-29.alt.intro.paper.pdf">paper</a> presented at the IEEE - University of Texas at Austin Engineering Management Conference in Austin, Texas.
+</p>
+<p>24 June 2005, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2005.06.24.sd.challenges.pdf">Software Development Challenges for the 21st Century</a></em> presentation at the IEEE Bombay Section in Mumbai, India.
+</p>
+<p>23 June 2005, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2005.06.23.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> presentation at the Computer Society of India, Mumbai Chapter in Mumbai, India.
+</p>
+<p>2 May 2005, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2005.05.02.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture for CS 373 at the University of Texas at Austin.
+</p>
+<p>19 Apr 2005, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2005.04.19.sd.challenges.pdf">Software Development Challenges for the 21st Century</a></em> presentation at the IEEE Computer Society, Austin Chapter, in Austin, Texas.
+</p>
+<h3>2004</h3>
+<p>29 Nov 2004, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2004.11.29.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture for CS 373 at the University of Texas at Austin.
+</p>
+<p>8 Sep 2004, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2004.09.08.sd.challenges.pdf">Software Development Challenges for the 21st Century</a></em> presentation at the Dallas-Forth Worth Metroplex Java User's Group.
+</p>
+<p>12-13 Aug 2004, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2004.08.12.predictable.dev.slides.pdf">A Practical Approach to Predictable Software Development Performance</a></em>
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <a href="/assets/articles/talks/2004.08.12.predictable.dev.paper.pdf">paper</a> presented at the IEEE - University of Texas at Austin Engineering Management Conference in Austin, Texas.
+</p>
+<p>14-15 Jul 2004, <em>Introduction to the Personal Software Process</em> presentation at the Software Quality Institute at the University of Texas, Center for Lifelong Engineering Education in Austin, Texas.</p>
+<p>1 Jun 2004, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2004.06.01.sd.challenges.pdf">Software Development Challenges for the 21st Century</a></em> presentation at the John von Neumann Computer Society at the University of Kecskemét, Hungary.
+</p>
+<p>7 May 2004, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2004.05.07.executive.strategy.seminar.pdf">Software Strategy Executive Seminar</a></em> presentation at the Plaza Club, Frost Bank Building, Downtown San Antonio, Texas.
+</p>
+<p>3 May 2004, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2004.05.03.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture for CS 373 at the University of Texas at Austin.
+</p>
+<p>5 Mar 2004, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2004.03.05.executive.strategy.seminar.pdf">Software Strategy Executive Seminar</a></em> presentation at the Plaza Club, Frost Bank Building, Downtown San Antonio, Texas.
+</p>
+<p>11 Feb 2004, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2004.02.11.people-side.pdf">The People-Side of the Personal Software Process</a></em> presentation with Dan Massey at the San Antonio Software Process Improvement Network in San Antonio, Texas.
+</p>
+<h3>2003</h3>
+<p>1 Dec 2003, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2003.12.01.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture for CS 373 at the University of Texas at Austin.
+</p>
+<p>20 Nov 2003, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2003.11.20.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> presentation at the IEEE Computer Society, Dallas Chapter in Dallas, Texas.
+</p>
+<p>13 Nov 2003, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2003.11.13.globalization.pdf">The Implications of Globalization</a></em> panelist at the Austin Software Process Improvement Network in Austin, Texas on the Panel on Lessons Learned in Offshore Development &#x26; Test.
+</p>
+<p>29-30 Sep 2003, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2003.09.29-30.tug.pdf">The People-Side of the Personal Software Process</a></em> presentation with Dan Massey at the First Annual Team Software Process User Group Meeting at the Software Engineering Institute in Pittsburgh, PA.
+</p>
+<p>23 Apr 2003, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2003.04.23.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> guest lecture for CS 373 at the University of Texas at Austin.
+</p>
+<p>23 Jan 2003, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2003.01.23.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> presentation at the IEEE Computer Society, San Antonio Chapter.
+</p>
+<h3>2002</h3>
+<p>20 Nov 2002, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2002.11.20.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> presentation at the University of Texas at Austin.
+</p>
+<p>18 Sep 2002, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2002.09.18.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> presentation at the San Antonio Software Process Improvement Network monthly meeting.
+</p>
+<p>16 Aug 2002, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2002.08.16.clee.panel.pdf">Balancing Cost, Schedule, and Quality--The Eternal PM Conundrum</a></em> presentation at the Exchange on Project Management at the University of Texas, Center for Lifelong Engineering Education in Austin, Texas.
+</p>
+<p>11 Apr 2002, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2002.04.11.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> presentation at the IEEE Consultants Network in Austin, Texas.
+</p>
+<p>15 Jan 2002, 
+  <img src="/assets/articles/talks/pdf.gif" alt="pdf"> <em><a href="/assets/articles/talks/2002.01.15.art.and.science.pdf">The Art &#x26; Science of Software Process</a></em> presentation at the Austin Software Process Improvement Network in Austin, Texas.
+</p>
+8:["$","main",null,{"data-pagefind-body":true,"className":"flex flex-col","children":[["$","article",null,{"id":"article","className":"content-page grid grid-cols-1 self-center","children":[["$","div",null,{"className":"content-prose","children":["$","h1",null,{"className":"","children":"Talks"}]}],["$","div",null,{"className":"content-subtitle","children":""}],["$","div",null,{"className":"content-date-tags","children":["$","div",null,{"className":"brand-text-accent my-2 text-sm","children":["🗓️",["$","span",null,{"className":"date-short px-1","children":"Mar 1, 1998"}],["$","span",null,{"className":"date-long px-1","children":"March 1, 1998"}],[["$","span",null,{"className":"pr-2"}],[["$","span","Talks",{"children":["$","span",null,{"className":"inline whitespace-nowrap pr-2 leading-loose","children":["$","$L6",null,{"href":"/tags/talks","children":["🏷️ ","Talks"]}]}]}]]]]}]}],["$","div",null,{"className":"content-reading-time","children":"📖 5 minute read"}],["$","div",null,{"className":"content-prose pt-4","dangerouslySetInnerHTML":{"__html":"$13"}}]]}],"$L14"]}]
+14:["$","div",null,{"className":"pager","children":[["$","div",null,{"className":"pager-btn pager-btn-left justify-self-start","children":["$","$L6",null,{"href":"/articles/reading","children":["$","div",null,{"className":"flex flex-row gap-2","children":[["$","div",null,{"className":"self-center","children":"‹‹"}],["$","div",null,{"className":"link-long","children":"Reading List"}]]}]}]}],["$","div",null,{"className":"pager-btn pager-btn-right justify-self-end","children":["$","$L6",null,{"href":"/articles/privacy-policy","children":["$","div",null,{"className":"flex flex-row gap-2","children":[["$","div",null,{"className":"link-long","children":"Privacy Policy"}],["$","div",null,{"className":"self-center","children":"››"}]]}]}]}]]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+15:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"Talks"}],["$","meta","1",{"name":"application-name","content":"Steve on Software"}],["$","meta","2",{"name":"author","content":"Steve Teleki"}],["$","meta","3",{"name":"generator","content":"Next.js+Unified.js"}],["$","meta","4",{"name":"keywords","content":"Talks"}],["$","meta","5",{"name":"referrer","content":"origin-when-cross-origin"}],["$","meta","6",{"name":"creator","content":"Steve Teleki"}],["$","meta","7",{"name":"publisher","content":"Steve Teleki"}],["$","meta","8",{"name":"robots","content":"index, follow, nocache"}],["$","meta","9",{"name":"category","content":"technology"}],["$","meta","10",{"name":"summary","content":"Talks about software development principles & practices, software process, the people of software, software project management, and software as art and science."}],["$","meta","11",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","12",{"property":"og:title","content":"Talks"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Talks"}],["$","link","15",{"rel":"icon","href":"/favicon.ico?favicon.b28d3dba.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/icon.png?icon.5872d748.png","sizes":"180x180","type":"image/png"}],["$","link","17",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.5872d748.png","sizes":"180x180","type":"image/png"}],["$","$L15","18",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
