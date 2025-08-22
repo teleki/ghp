@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/ae2273c76f546f10.js"],"Header"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"default"]
+5:I[29306,["/_next/static/chunks/ae2273c76f546f10.js","/_next/static/chunks/4703bc040350e6fb.js"],"default"]
+6:I[22016,["/_next/static/chunks/ae2273c76f546f10.js"],"default"]
+7:I[79520,["/_next/static/chunks/ae2273c76f546f10.js"],""]
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"OutletBoundary"]
+b:I[11533,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"AsyncMetadataOutlet"]
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"ViewportBoundary"]
+f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"MetadataBoundary"]
+11:I[68027,["/_next/static/chunks/ae2273c76f546f10.js"],"default"]
+:HL["/_next/static/chunks/cc0df02d4327479b.css","style"]
+:HL["/_next/static/chunks/eb89a7503d7ea580.css","style"]
+:HL["/_next/static/media/asap_condensed_v17_latin_500-s.p.201eb6cb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ibm_plex_serif_v19_latin_500-s.p.0a408628.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/roboto_condensed_v27_latin_500-s.p.fa484095.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/satisfy_v21_latin_regular-s.p.947b27dc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"kJIvsIcygUwkht8OuZseX","p":"","c":["","tags","process","living-with-constraints",""],"i":false,"f":[[["",{"children":["tags",{"children":[["tag","process","d"],{"children":[["slug","living-with-constraints","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cc0df02d4327479b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/eb89a7503d7ea580.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/ae2273c76f546f10.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"data-scroll-behavior":"smooth","lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"color-scheme","content":"light dark"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var theme = localStorage.getItem(\"theme\");\n                  var dark = theme === \"dark\" || (theme === \"system\" && window.matchMedia(\"(prefers-color-scheme: dark)\").matches);\n                  if (dark) {\n                    document.documentElement.classList.add(\"dark\");\n                    document.documentElement.setAttribute(\"data-theme\", \"dark\");\n                    document.documentElement.style.colorScheme = \"dark\";\n                  } else {\n                    document.documentElement.classList.remove(\"dark\");\n                    document.documentElement.setAttribute(\"data-theme\", \"light\");\n                    document.documentElement.style.colorScheme = \"light\";\n                  }\n                } catch(e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"brand-bg brand-text sticky bottom-0 flex p-1","children":["$","div",null,{"className":"brand-page-max-width m-auto flex w-full flex-row justify-between px-4","children":[["$","div",null,{"className":"robotocond500_1477471c-module__3nXAyW__className","children":["© ",2025," Steve Teleki. All rights reserved."]}],["$","div",null,{"className":"privacy-footer","children":["$","$L6",null,{"href":"/articles/privacy-policy","children":["$","span",null,{"className":"robotocond500_1477471c-module__3nXAyW__className","children":"Privacy Policy"}]}]}]]}]}],["$","dialog",null,{"id":"search_modal","className":"modal","children":[["$","div",null,{"className":"modal-box w-11/12 max-w-5xl","children":[["$","h3",null,{"className":"pb-6 text-lg font-bold","children":"🧭 Steve on Software Site Search"}],["$","div",null,{"id":"search","className":""}],["$","form",null,{"method":"dialog","children":["$","button",null,{"className":"btn btn-circle btn-ghost btn-sm absolute top-2 right-2","children":"✖️"}]}]]}],["$","form",null,{"method":"dialog","className":"modal-backdrop","children":["$","button",null,{"children":"close"}]}]]}]]}],["$","$L7",null,{"src":"/js/nav.js"}],["$","$L7",null,{"src":"/js/katex.min.js"}],["$","$L7",null,{"src":"/pagefind/pagefind-ui.js"}],["$","$L7",null,{"src":"/js/pagefind-extra.js"}]]}]]}],{"children":["tags",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["tag","process","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","living-with-constraints","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":"$L10"}]]}],false]],"m":"$undefined","G":["$11",["$L12","$L13"]],"s":false,"S":true}
+14:"$Sreact.suspense"
+10:["$","div",null,{"hidden":true,"children":["$","$14",null,{"fallback":null,"children":"$L15"}]}]
+12:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cc0df02d4327479b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/eb89a7503d7ea580.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bf5f4fcdb6d9e318.js"],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"Steve on Software"}],["$","meta","1",{"name":"description","content":"Steve on software development, management, people, technology, organizations, and business."}],["$","meta","2",{"name":"application-name","content":"Steve on Software"}],["$","meta","3",{"name":"author","content":"Steve Teleki"}],["$","meta","4",{"name":"generator","content":"Next.js+Unified.js"}],["$","meta","5",{"name":"keywords","content":"development,management,people,technology,software,organizations,software business"}],["$","meta","6",{"name":"referrer","content":"origin-when-cross-origin"}],["$","meta","7",{"name":"creator","content":"Steve Teleki"}],["$","meta","8",{"name":"publisher","content":"Steve Teleki"}],["$","meta","9",{"name":"robots","content":"index, follow, nocache"}],["$","meta","10",{"name":"category","content":"technology"}],["$","meta","11",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","12",{"property":"og:title","content":"Steve on Software"}],["$","meta","13",{"property":"og:description","content":"Steve on software development, management, people, technology, organizations, and business."}],["$","meta","14",{"property":"og:url","content":"https://steve.teleki.net/"}],["$","meta","15",{"property":"og:site_name","content":"Steve on Software"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:type","content":"website"}],["$","meta","18",{"name":"twitter:card","content":"summary"}],["$","meta","19",{"name":"twitter:title","content":"Steve on Software"}],["$","meta","20",{"name":"twitter:description","content":"Steve on software development, management, people, technology, organizations, and business."}],["$","link","21",{"rel":"icon","href":"/favicon.ico?favicon.b28d3dba.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","22",{"rel":"icon","href":"/icon.png?icon.5872d748.png","sizes":"180x180","type":"image/png"}],["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.5872d748.png","sizes":"180x180","type":"image/png"}],["$","$L16","24",{}]],"error":null,"digest":"$undefined"}
+15:"$c:metadata"
+17:Tb3f,
+<p>Life, especially software development life, is never without constraints.</p>
+<h2>Time Constraints</h2>
+<ol>
+  <li>The software has to be released on a certain date, set well in advance. The only option is to plan based on the time budget.</li>
+  <li>Given that I have this much time, what can I fit into this time?</li>
+</ol>
+<h2>Software Correctness (or Incorrectness) Constraints</h2>
+<ol>
+  <li>The software that you work with has flaws in it.</li>
+  <li>How many flaws?</li>
+  <li>Are the flaws of the software making it unusable? This is not any different than any other software you are trying to use.</li>
+</ol>
+<p>Windows has flaws in it, however once a problem is discovered, you are always trying to use the program in a way as to avoid that particular flaw.</p>
+<h2>Incomplete Knowledge Constraints</h2>
+<h3>Requirements -> Problem -> Solution</h3>
+<ol>
+  <li>The understanding of the requirements will evolve as you move through the project. More so, even the understanding of the folks who specify requirements will evolve.</li>
+  <li>Your understanding of the problem evolves.</li>
+  <li>Your understanding of the solution evolves.</li>
+</ol>
+<p>Each constraint requires a different treatment. Each poses risks, therefore each needs to be dealt with, or the project will get into jeopardy. The questions to ask about each are:</p>
+<h2>Questions about Time Constraints</h2>
+<ol>
+  <li>What can I do in 2/20/200 hours?</li>
+  <li>What % of my time should I spent on a given activity?</li>
+  <li>What is the activity that only I can do?</li>
+  <li>What is the activity that I can do that is visible?</li>
+  <li>What are those activities that I can do to reduce other's dependencies on me?</li>
+  <li>What can I finish now to unblock to others?</li>
+</ol>
+<h2>Software Correctness</h2>
+<ol>
+  <li>Do I have proof in form of running code that this API I want to use works in the way I want to use it?</li>
+  <li>Given that I found a problem with this API, is there a workaround that I can use?</li>
+</ol>
+<h2>Knowledge Constraints</h2>
+<ol>
+  <li>What are the requirements that are at risk to change because of real or perceived lack of clarity/definition/etc.?</li>
+  <li>Is the problem formally described? If not, why not?</li>
+  <li>Is the solution presented on paper proven to be correct (empirically or mathematically/logically)?</li>
+  <li>Does the solution provide flexibility to cover for the risk of changing requirements?</li>
+</ol>
+<h2>People's Skill and Knowledge Constraints</h2>
+<ol>
+  <li>What are the skills available in the team?</li>
+  <li>What are the growth goals for the people on the team?</li>
+</ol>
+<p>There is no constraint-free state. Our job as software engineers is to figure out a solution that can be completed within the constraints of time, people, money, etc. that we have. It is not an easy task, but that's what makes it fun.</p>
+8:["$","main",null,{"children":[["$","article",null,{"id":"article","className":"content-page grid grid-cols-1 self-center","children":[["$","div",null,{"className":"content-prose","children":["$","h1",null,{"className":"","children":"Living with Constraints"}]}],["$","div",null,{"className":"content-subtitle","children":""}],["$","div",null,{"className":"content-date-tags","children":["$","div",null,{"className":"brand-text-accent my-2 text-sm","children":["🗓️",["$","span",null,{"className":"date-short px-1","children":"Mar 20, 2007"}],["$","span",null,{"className":"date-long px-1","children":"March 20, 2007"}],[["$","span",null,{"className":"pr-2"}],[["$","span","Planning",{"children":["$","span",null,{"className":"inline whitespace-nowrap pr-2 leading-loose","children":["$","$L6",null,{"href":"/tags/planning","children":["🏷️ ","Planning"]}]}]}],["$","span","Development",{"children":["$","span",null,{"className":"inline whitespace-nowrap pr-2 leading-loose","children":["$","$L6",null,{"href":"/tags/development","children":["🏷️ ","Development"]}]}]}],["$","span","Process",{"children":["$","span",null,{"className":"inline whitespace-nowrap pr-2 leading-loose","children":["$","$L6",null,{"href":"/tags/process","children":["🏷️ ","Process"]}]}]}]]]]}]}],["$","div",null,{"className":"content-reading-time","children":"📖 2 minute read"}],["$","div",null,{"className":"content-prose pt-4","dangerouslySetInnerHTML":{"__html":"$17"}}]]}],"$L18"]}]
+18:["$","div",null,{"className":"pager","children":[["$","div",null,{"className":"pager-btn pager-btn-left justify-self-start","children":["$","$L6",null,{"href":"/tags/process/getting-started-with-software-reviews","children":["$","div",null,{"className":"flex flex-row gap-2","children":[["$","div",null,{"className":"self-center","children":"‹‹"}],["$","div",null,{"className":"link-long","children":"Getting Started with Software Reviews"}]]}]}]}],["$","div",null,{"className":"pager-btn pager-btn-right justify-self-end","children":["$","$L6",null,{"href":"/tags/process/why-prototype","children":["$","div",null,{"className":"flex flex-row gap-2","children":[["$","div",null,{"className":"link-long","children":"Why Prototype?"}],["$","div",null,{"className":"self-center","children":"››"}]]}]}]}]]}]
